@@ -33,6 +33,7 @@
     <databus.publisher>https://eisenbahnplatte.github.io/webid.ttl#this</databus.publisher>
     <databus.license>http://purl.oclc.org/NET/rdflicense/cc-by3.0</databus.license>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    <databus.pkcs12serverId>databus.eisenbahnplatte</databus.pkcs12serverId>
     <databus.documentation>## Origin
 This dataset was created by Eisenbahnplatte</databus.documentation>
   </properties>
