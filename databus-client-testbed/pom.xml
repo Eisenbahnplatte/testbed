@@ -27,9 +27,9 @@
     <databus.downloadUrlPath>
         http://dbpedia-mappings.tib.eu/databus-repo/eisenbahnplatte/${project.groupId}/${project.artifactId}/${project.version}/
     </databus.downloadUrlPath>
-	<databus.documentationLocation>https://github.com/dbpedia/databus-client/master/src/resources/databus-client-testbed/${project.groupId}/${project.artifactId}/${project.artifactId}.md    
-    <databus.feedbackChannel>https://forum.dbpedia.org/u/eisenbahnplatte<databus.feedbackChannel>
-    <databus.issueTracker>https://github.com/dbpedia/databus-client/issues<databus.issueTracker>
+	<databus.documentationLocation>https://github.com/Eisenbahnplatte/testbed/blob/master/${project.groupId}/${project.artifactId}/${project.artifactId}.md</databus.documentationLocation>
+    <databus.feedbackChannel>https://forum.dbpedia.org/u/eisenbahnplatte</databus.feedbackChannel>
+    <databus.issueTracker>https://github.com/dbpedia/databus-client/issues</databus.issueTracker>
     <databus.publisher>https://eisenbahnplatte.github.io/webid.ttl#this</databus.publisher>
     <databus.license>http://purl.oclc.org/NET/rdflicense/cc-by3.0</databus.license>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
