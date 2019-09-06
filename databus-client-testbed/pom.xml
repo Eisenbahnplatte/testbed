@@ -14,7 +14,7 @@
   <version>2019.08.30</version>
   <packaging>pom</packaging>
   <modules>
-      <!--<module>compression-testbed</module>-->
+    <module>compression-testbed</module>
     <module>format-testbed</module>
     <module>format-testbed-2</module>
   </modules>
